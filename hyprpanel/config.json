@@ -1,0 +1,10 @@
+layout = {
+  "*": {
+    "left": [
+      "media"
+    ]
+  },
+  "bar.customModules.storage.paths": [
+    "/"
+  ]
+}
