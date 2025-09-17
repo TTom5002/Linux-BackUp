@@ -57,4 +57,3 @@ keymap("v", "<A-k>", ":m '<-2<CR>gv=gv", opts)
 
 -- Yanking and pasting over another word, keeps yanked word in buffer
 keymap("v", "p", '"_dP', opts)
-

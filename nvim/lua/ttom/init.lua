@@ -1,4 +1,6 @@
-require("ttom.keymap")
-require("ttom.options")
--- require("ttom.packer")
-
+require "ttom.keymap"
+require "ttom.options"
+require "ttom.packer" 
+require "ttom.colorscheme"
+require "ttom.cmp"
+require "ttom.lsp"

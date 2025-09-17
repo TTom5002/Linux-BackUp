@@ -15,6 +15,12 @@ vim.opt.cursorline = true         -- highlight the current line
 vim.opt.number = true             -- set numbered lines
 vim.opt.relativenumber = true     -- set relative numbered line
 vim.opt.wrap = true               -- break a text if it is out of window
-vim.opt.ruler = false             --Show current line number at bottom right of the screen
+vim.opt.ruler = false             -- show current line number at bottom right of the screen
+vim.opt.termguicolors = true      -- set term gui colors 
+vim.opt.virtualedit = all         -- move up and down in the same column 
+-- vim.opt.formatoptions:remove { "c", "r", "o" }       -- influence how Vim formats text - DOESNT WORK
+vim.api.nvim_create_autocmd('BufWinEnter', {
+    command = 'set formatoptions-=cro',
+})
 
 vim.cmd [[set iskeyword+=-]]      -- join words seperated by '-' into one word
