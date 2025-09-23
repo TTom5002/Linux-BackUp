@@ -1,0 +1,41 @@
+9/18/2025, 9:27:48 PM GMT+2 0: 
+
+----------------------------------------------
+9/18/2025, 9:27:48 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.98"}, modulepath: /home/tomast/.config/discord/0.0.98/modules
+9/18/2025, 9:27:48 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+9/18/2025, 9:27:48 PM GMT+2 3: ✅ window.created win1 "discord"
+9/18/2025, 9:27:48 PM GMT+2 4: ✅ webContents.did-finish-load web1
+9/18/2025, 9:28:04 PM GMT+2 5: ✅ webContents.created web2 ""
+9/18/2025, 9:28:04 PM GMT+2 6: ✅ window.created win2 "Discord"
+9/18/2025, 9:28:06 PM GMT+2 7: ✅ webContents.did-finish-load web2
+9/18/2025, 9:28:06 PM GMT+2 8: window.close win1
+9/18/2025, 9:28:06 PM GMT+2 9: webContents.destroyed web1
+9/18/2025, 9:28:06 PM GMT+2 10: window.closed win1
+9/18/2025, 10:28:09 PM GMT+2 11: window.close win2
+9/18/2025, 10:28:20 PM GMT+2 0: 
+
+----------------------------------------------
+9/18/2025, 10:28:20 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.98"}, modulepath: /home/tomast/.config/discord/0.0.98/modules
+9/18/2025, 10:28:20 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+9/18/2025, 10:28:20 PM GMT+2 3: ✅ window.created win1 "discord"
+9/18/2025, 10:28:20 PM GMT+2 4: ✅ webContents.created web2 ""
+9/18/2025, 10:28:20 PM GMT+2 5: ✅ window.created win2 "Discord"
+9/18/2025, 10:28:20 PM GMT+2 6: ✅ webContents.did-finish-load web1
+9/18/2025, 10:28:21 PM GMT+2 7: ✅ webContents.did-finish-load web2
+9/18/2025, 10:28:22 PM GMT+2 8: window.close win1
+9/18/2025, 10:28:22 PM GMT+2 9: webContents.destroyed web1
+9/18/2025, 10:28:22 PM GMT+2 10: window.closed win1
+9/18/2025, 10:28:40 PM GMT+2 11: window.closed win2
+9/18/2025, 10:28:47 PM GMT+2 0: 
+
+----------------------------------------------
+9/18/2025, 10:28:47 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.98"}, modulepath: /home/tomast/.config/discord/0.0.98/modules
+9/18/2025, 10:28:47 PM GMT+2 2: ✅ webContents.created web1 "index.html"
+9/18/2025, 10:28:47 PM GMT+2 3: ✅ window.created win1 "discord"
+9/18/2025, 10:28:47 PM GMT+2 4: ✅ webContents.created web2 ""
+9/18/2025, 10:28:47 PM GMT+2 5: ✅ window.created win2 "Discord"
+9/18/2025, 10:28:47 PM GMT+2 6: ✅ webContents.did-finish-load web1
+9/18/2025, 10:28:51 PM GMT+2 7: ✅ webContents.did-finish-load web2
+9/18/2025, 10:28:52 PM GMT+2 8: window.close win1
+9/18/2025, 10:28:52 PM GMT+2 9: webContents.destroyed web1
+9/18/2025, 10:28:52 PM GMT+2 10: window.closed win1

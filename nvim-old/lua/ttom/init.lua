@@ -1,0 +1,6 @@
+require "ttom.keymap"
+require "ttom.options"
+require "ttom.plugins" 
+require "ttom.colorscheme"
+require "ttom.cmp"
+require "ttom.lsp-config"
