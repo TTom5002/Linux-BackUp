@@ -3,3 +3,6 @@ libreoffice/
 
 # Ignorovat všechny soubory uvnitř, pokud by složka byla prázdná
 libreoffice/**
+
+Discord/
+Discord/**
