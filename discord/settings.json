@@ -5,9 +5,19 @@
   "IS_MAXIMIZED": false,
   "IS_MINIMIZED": false,
   "WINDOW_BOUNDS": {
+<<<<<<< HEAD
     "x": 13,
     "y": 73,
     "width": 940,
     "height": 714
   }
+=======
+    "x": 2573,
+    "y": 73,
+    "width": 1035,
+    "height": 994
+  },
+  "offloadAdmControls": true,
+  "enableHardwareAcceleration": true
+>>>>>>> 5d1a6ea (Backup)
 }

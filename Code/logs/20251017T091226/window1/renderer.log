@@ -1,0 +1,4 @@
+2025-10-17 09:12:27.813 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-10-17 09:12:27.894 [info] Started local extension host with pid 3064.
+2025-10-17 09:12:28.273 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-10-17 09:12:30.826 [info] [perf] Render performance baseline is 22ms

@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 2025/09/18-21:28:06.792 251a Creating DB /home/tomast/.config/discord/shared_proto_db since it was missing.
 2025/09/18-21:28:06.811 251a Reusing MANIFEST /home/tomast/.config/discord/shared_proto_db/MANIFEST-000001
+=======
+2025/10/15-20:46:55.819 2402 Reusing MANIFEST /home/tomast/.config/discord/shared_proto_db/MANIFEST-000001
+2025/10/15-20:46:55.819 2402 Recovering log #3
+2025/10/15-20:46:55.819 2402 Reusing old log /home/tomast/.config/discord/shared_proto_db/000003.log 
+>>>>>>> 5d1a6ea (Backup)

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"updateclientdata":{"apps":{"oimompecagnajdejgnnjijobebaeigek":{"cohort":"1:2qw3:","cohortname":"Auto","dlrc":6835,"fp":"1.c28ebc536851070d5ecefe023e5308aacfee71d18e5b0fc27d152964d1312836","installdate":6835,"max_pv":"0.0.0.0","pf":"950e6b5b-c7e9-41d6-b3de-da92e48bb05a","pv":"4.10.2891.0"}}}}
+=======
+{"updateclientdata":{"apps":{"oimompecagnajdejgnnjijobebaeigek":{"cohort":"1:2qw3:","cohortname":"Auto","dlrc":6862,"fp":"1.c28ebc536851070d5ecefe023e5308aacfee71d18e5b0fc27d152964d1312836","installdate":6835,"max_pv":"0.0.0.0","pf":"54a19d7c-65f5-46ad-97a4-c8466bbb66ce","pv":"4.10.2891.0"}}}}
+>>>>>>> 5d1a6ea (Backup)

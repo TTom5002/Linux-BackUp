@@ -1,0 +1,58 @@
+10/4/2025, 5:52:41 PM GMT+2 0: 
+
+----------------------------------------------
+10/4/2025, 5:52:41 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.110"}, modulepath: /home/tomast/.config/discord/0.0.110/modules
+10/4/2025, 5:52:41 PM GMT+2 2: ✅ webContents.created web1 ""
+10/4/2025, 5:52:41 PM GMT+2 3: ✅ window.created win1 "discord"
+10/4/2025, 5:52:41 PM GMT+2 4: ✅ webContents.did-finish-load web1
+10/4/2025, 5:52:49 PM GMT+2 5: ✅ webContents.created web2 ""
+10/4/2025, 5:52:49 PM GMT+2 6: ✅ window.created win2 "Discord"
+10/4/2025, 5:52:50 PM GMT+2 7: ✅ webContents.did-finish-load web2
+10/4/2025, 5:52:50 PM GMT+2 8: window.close win1
+10/4/2025, 5:52:51 PM GMT+2 9: webContents.destroyed web1
+10/4/2025, 5:52:51 PM GMT+2 10: window.closed win1
+10/8/2025, 8:05:18 PM GMT+2 0: 
+
+----------------------------------------------
+10/8/2025, 8:05:18 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.110"}, modulepath: /home/tomast/.config/discord/0.0.110/modules
+10/8/2025, 8:05:18 PM GMT+2 2: ✅ webContents.created web1 ""
+10/8/2025, 8:05:18 PM GMT+2 3: ✅ window.created win1 "discord"
+10/8/2025, 8:05:18 PM GMT+2 4: ✅ webContents.did-finish-load web1
+10/8/2025, 8:05:18 PM GMT+2 5: ✅ webContents.created web2 ""
+10/8/2025, 8:05:18 PM GMT+2 6: ✅ window.created win2 "Discord"
+10/8/2025, 8:05:20 PM GMT+2 7: ✅ webContents.did-finish-load web2
+10/8/2025, 8:05:20 PM GMT+2 8: window.close win1
+10/8/2025, 8:05:20 PM GMT+2 9: webContents.destroyed web1
+10/8/2025, 8:05:20 PM GMT+2 10: window.closed win1
+10/8/2025, 8:14:36 PM GMT+2 11: before-quit
+10/8/2025, 8:14:36 PM GMT+2 12: window.close win2
+10/14/2025, 12:27:39 AM GMT+2 0: 
+
+----------------------------------------------
+10/14/2025, 12:27:39 AM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.110"}, modulepath: /home/tomast/.config/discord/0.0.110/modules
+10/14/2025, 12:27:39 AM GMT+2 2: ✅ webContents.created web1 ""
+10/14/2025, 12:27:39 AM GMT+2 3: ✅ window.created win1 "discord"
+10/14/2025, 12:27:40 AM GMT+2 4: ✅ webContents.did-finish-load web1
+10/14/2025, 12:27:40 AM GMT+2 5: ✅ webContents.created web2 ""
+10/14/2025, 12:27:40 AM GMT+2 6: ✅ window.created win2 "Discord"
+10/14/2025, 12:27:41 AM GMT+2 7: ✅ webContents.did-finish-load web2
+10/14/2025, 12:27:42 AM GMT+2 8: window.close win1
+10/14/2025, 12:27:42 AM GMT+2 9: webContents.destroyed web1
+10/14/2025, 12:27:42 AM GMT+2 10: window.closed win1
+10/14/2025, 12:48:54 AM GMT+2 11: window.close win2
+10/14/2025, 12:48:55 AM GMT+2 12: before-quit
+10/14/2025, 12:48:55 AM GMT+2 13: window.close win2
+10/14/2025, 12:49:00 AM GMT+2 14: window.closed win2
+10/15/2025, 8:46:37 PM GMT+2 0: 
+
+----------------------------------------------
+10/15/2025, 8:46:37 PM GMT+2 1: Discord starting: {"releaseChannel":"stable","version":"0.0.110"}, modulepath: /home/tomast/.config/discord/0.0.110/modules
+10/15/2025, 8:46:37 PM GMT+2 2: ✅ webContents.created web1 ""
+10/15/2025, 8:46:37 PM GMT+2 3: ✅ window.created win1 "discord"
+10/15/2025, 8:46:37 PM GMT+2 4: ✅ webContents.did-finish-load web1
+10/15/2025, 8:46:37 PM GMT+2 5: ✅ webContents.created web2 ""
+10/15/2025, 8:46:37 PM GMT+2 6: ✅ window.created win2 "Discord"
+10/15/2025, 8:46:39 PM GMT+2 7: ✅ webContents.did-finish-load web2
+10/15/2025, 8:46:40 PM GMT+2 8: window.close win1
+10/15/2025, 8:46:40 PM GMT+2 9: webContents.destroyed web1
+10/15/2025, 8:46:40 PM GMT+2 10: window.closed win1

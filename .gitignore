@@ -1,1 +1,5 @@
-**result**
+# Ignorovat celou složku libreoffice
+libreoffice/
+
+# Ignorovat všechny soubory uvnitř, pokud by složka byla prázdná
+libreoffice/**

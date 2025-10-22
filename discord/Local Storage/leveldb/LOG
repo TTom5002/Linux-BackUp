@@ -1,0 +1,6 @@
+2025/10/15-20:46:37.368 2402 Reusing MANIFEST /home/tomast/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/10/15-20:46:37.375 2402 Recovering log #13
+2025/10/15-20:46:37.376 2402 Reusing old log /home/tomast/.config/discord/Local Storage/leveldb/000013.log 
+2025/10/15-20:52:09.166 2403 Level-0 table #17: started
+2025/10/15-20:52:09.217 2403 Level-0 table #17: 2273630 bytes OK
+2025/10/15-20:52:09.226 2403 Delete type=0 #13

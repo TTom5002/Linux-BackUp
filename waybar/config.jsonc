@@ -19,7 +19,6 @@
         "memory",
         "battery",
         "clock",
-        "tray"
     ],
     "tray": {
         "icon-size": 21,
@@ -93,9 +92,10 @@
     
     "hyprland/workspaces": {
         "all-outputs": false,
-        "active-only": true,
+        "active-only": false,
+        "persistent-only": true,
         "persistent-workspaces": {
-          "*": 4 
+          "*": 4,
         },
     }
 }
