@@ -1,8 +1,18 @@
-<<<<<<< HEAD
 require("mini.pick").setup()
-=======
-require "mini.pick".setup()
-require "oil".setup()
+-- require("oil").setup()
 require("plugins.dap")
 require("plugins.treesitter")
->>>>>>> 5d1a6ea (Backup)
+require("nvim-autopairs").setup()
+require("neogen").setup({ snippet_engine = "luasnip" })
+require("nvim-ts-autotag").setup()
+require("render-markdown").setup()
+require("bufferline").setup()
+
+require("neo-tree").setup({
+  -- action = "focus",
+  -- tab = {
+  --   sync = {
+  --     open = true
+  --   }
+  -- },
+})

@@ -1,0 +1,4 @@
+-- vim.keymap.set("n", "<leader>mp", function()
+--   vim.cmd("vsplit")
+--   vim.cmd("terminal glow -w " .. vim.fn.expand("%"))
+-- end)

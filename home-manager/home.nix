@@ -34,11 +34,19 @@
     python3
     python3Packages.pynvim
 
+    nodejs
+
     libreoffice
 
     gparted
+    phpunit
 
-    ranger
+    ffmpeg-full
+
+    vlc
+
+    glow
+
     # # overrides. You can do that directly here, just don't forget the
     # # parentheses. Maybe you want to install Nerd Fonts with a limited number of
     # # fonts?
@@ -105,12 +113,18 @@
         nightfly
         vim-css-color
         emmet-vim
-
+        nvim-autopairs
         nvim-cmp
         cmp-nvim-lsp
         cmp-buffer
         cmp-path
         luasnip
+        neogen # cpp documentation comments
+        nvim-ts-autotag
+        markdown-preview-nvim
+        render-markdown-nvim
+        neo-tree-nvim
+        bufferline-nvim
       ]);
     extraPackages = with pkgs; [
        texlive.combined.scheme-full
@@ -127,9 +141,8 @@
 
   programs.vscode = {
     enable = true;
-    extensions = with pkgs.vscode-extensions; [
+    # profiles.deafaul.extensions = with pkgs.vscode-extensions; [];
 
-    ];
   };
 
   programs.git = {

@@ -25,11 +25,11 @@ keymap("n", "<leader>w", ":w<CR>", opts)
 keymap("n", "<leader>q", ":q<CR>", opts)
 
 -- Explore 
-local ok, _ = pcall(require, "oil")
+local ok, _ = pcall(require, "neo-tree")
 if ok then
-  keymap("n", "<leader>e", ":Oil<CR>", opts) -- Oil plugin
+  keymap("n", "<leader>e", ":Neotree toggle<CR>", opts) -- Neotree plugin
 else
-  keymap("n", "<leader>e", ":Lex 30<CR>", opts) -- Original nvim
+  keymap("n", "<leader>e", ":Ex 30<CR>", opts) -- Original nvim
 end
 
 -- Better window navigation
@@ -59,6 +59,9 @@ keymap("n", "<leader>lf", ":lua vim.lsp.buf.format()<CR>", opts)
 -- Mini.pick
 keymap("n", "<leader>f", ":Pick files<CR>", opts)
 keymap("n", "<leader>h", ":Pick help<CR>", opts)
+
+-- Bufferline
+keymap("n", "cx", ':bd<CR>', { desc = "Closes current tab" }) -- Closes current tab
 
 -- Insert --
 -- Press XX fast to exit

@@ -14,4 +14,7 @@ require "nvim-treesitter.configs".setup({
       clear_on_cursor_move = true,
     },
   },
+  -- autotag = {
+  --   enable = true,
+  -- },
 })

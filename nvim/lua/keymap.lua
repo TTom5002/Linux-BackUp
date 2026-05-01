@@ -42,6 +42,9 @@ keymap("n", "<S-h>", ":bprevious<CR>", opts)
 keymap("n", "<A-j>", ":m .+1<CR>==", opts)
 keymap("n", "<A-k>", ":m .-2<CR>==", opts)
 
+-- Turn off highlight 
+keymap("n", "<ESC>", ":nohlsearch<CR>", opts)
+
 -- LSP
 keymap("n", "<leader>lf", ":lua vim.lsp.buf.format()<CR>", opts)
 -- vim.keymap.set("n", "<leader>lf", vim.lsp.buf.format)
