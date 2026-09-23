@@ -1,20 +1,19 @@
-require "nvim-treesitter.configs".setup({
-  auto_install = false,
+return {
+  -- Hlavní Treesitter
+  {
+    "nvim-treesitter/nvim-treesitter",
+    build = ":TSUpdate",
+    config = function()
+      require("nvim-treesitter.configs").setup({
+        ensure_installed = { "lua", "vim", "cpp", "c" }, -- přidej co potřebuješ
+        highlight = { enable = true },
+      })
+    end,
+  },
 
-  highlight = {
-    enable = true,
+  -- Refactor plugin (teď s definovanou závislostí)
+  {
+    "nvim-treesitter/nvim-treesitter-refactor",
+    dependencies = { "nvim-treesitter/nvim-treesitter" }, -- KLÍČOVÝ ŘÁDEK
   },
-  indent = {
-    enable = true,
-  },
-  refactor = {
-    highlight_definitions = {
-      enable = false,
-      -- Set to false if you have an `updatetime` of ~100.
-      clear_on_cursor_move = true,
-    },
-  },
-  -- autotag = {
-  --   enable = true,
-  -- },
-})
+}
